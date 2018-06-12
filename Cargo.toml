@@ -24,6 +24,10 @@ build-license-version3 = ["ffmpeg-sys/build-license-version3"]
 # misc
 build-pic  = ["ffmpeg-sys/build-pic"]
 build-zlib = ["ffmpeg-sys/build-zlib"]
+build-nvenc = ["ffmpeg-sys/build-nvenc"]
+build-cuda = ["ffmpeg-sys/build-cuda"]
+build-cuvid = ["ffmpeg-sys/build-cuvid"]
+build-lib-npp = ["ffmpeg-sys/build-lib-npp"]
 
 # ssl
 build-lib-gnutls  = ["ffmpeg-sys/build-lib-gnutls"]
