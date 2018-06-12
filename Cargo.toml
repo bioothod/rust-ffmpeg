@@ -101,3 +101,4 @@ optional = true
 [dependencies.ffmpeg-sys]
 version = "3.3"
 default-features = false
+git = "https://github.com/bioothod/rust-ffmpeg-sys"
